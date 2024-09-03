@@ -1,4 +1,4 @@
 function quack() {
-    var audio = new Audio('files/quack.mp3');
+    var audio = new Audio('files/without-me.wav');
     audio.play();
 }
