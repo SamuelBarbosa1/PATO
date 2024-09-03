@@ -8,3 +8,5 @@ PEGA O PATO QUEEN QUEEN
 PEGA O PATO QUEEN QUEEN
 
 TAVA NO TÉDIO
+
+Clica no nome "PATO" QUE ele mudara para outro
